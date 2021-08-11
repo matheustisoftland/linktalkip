@@ -41,6 +41,27 @@
     ],
      
      
+      "talkiplinkc": [
+     {
+        "id": 1,
+        "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkiplinkr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],
+     
+     
      
       "talkiplote2c": [
      {
