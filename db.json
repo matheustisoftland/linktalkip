@@ -1,29 +1,63 @@
 {
      
-     
-      "talkiplinkc": [
+      "talkiplote1c": [
      {
-        "id": "",
-        "lote":"",
+        "id": 1,
         "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkiplote1r": [
+     {
+        "id": 1,
         "numero": "",
         "campanha": "",
         "status": "",
         "resposta": ""
       }
     ],
-
- "talkiplinkr": [
+     
+     
+      "talkiplote2c": [
      {
-        "id": "",
-        "lote":"",
+        "id": 1,
+        "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkiplote2r": [
+     {
+        "id": 1,
         "numero": "",
         "campanha": "",
         "status": "",
         "resposta": ""
       }
-    ]
-
-
+    ],
      
+      "talkiplote3c": [
+     {
+        "id": 1,
+        "formato": "",
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "talkiplote3r": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]     
 }
